@@ -1,0 +1,11 @@
+numpy
+matplotlib
+tabulate
+Pillow
+opencv-python
+pandas
+scipy
+ipython
+sympy
+nose
+virtualenv
