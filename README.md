@@ -4,13 +4,7 @@ Meu go-to install de bibliotecas do python.
 
 ## Necessário ter Python instalado ou instalar o python.
 
-Atualizando python:
-
-```
-choco upgrade python -y
-```
-
-Alternativamente com winget:
+Instalando com winget:
 
 ```
 winget install -e --id Python.Python
@@ -21,6 +15,12 @@ ou caso seja linux:
 ```
 sudo apt update -y
 sudo apt install python
+```
+
+Atualizando python:
+
+```
+choco upgrade python -y
 ```
 
 ## Installar as bibliotecas:
